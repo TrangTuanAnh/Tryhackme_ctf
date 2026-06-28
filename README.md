@@ -12,8 +12,7 @@ Tổng hợp write-up các phòng CTF / Penetration Testing trên [TryHackMe](ht
 | 2 | Decryptify | Medium | Web, Crypto, RCE | [THM](https://tryhackme.com/room/decryptify) | [📝](writeups/Decryptify/README.md) |
 | 3 | Checkmate | Medium | Password Attacks, OSINT, Crypto | [THM](https://tryhackme.com/room/checkmate) | [📝](writeups/Checkmate/README.md) |
 | 4 | Hammer | Medium | Web, Authentication Bypass, JWT, RCE | [THM](https://tryhackme.com/room/hammer) | [📝](writeups/Hammer/README.md) |
-| 5 | SSRF | Medium | Web, SSRF, RCE, Werkzeug | [THM](https://tryhackme.com/room/ssrfqi) | [📝](writeups/SSRF/README.md) |
-
+| 5 | PLC CCTV Simulator | Medium | ICS/SCADA, Modbus TCP, Siemens S7, OpenPLC, Video Forensics | [THM](https://tryhackme.com/room/kaboom) | [📝](writeups/PLC-CCTV-Simulator/README.md) |
 ---
 
 ## Thêm box mới
