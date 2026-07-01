@@ -13,6 +13,7 @@ Tổng hợp write-up các phòng CTF / Penetration Testing trên [TryHackMe](ht
 | 3 | Checkmate | Medium | Password Attacks, OSINT, Crypto | [THM](https://tryhackme.com/room/checkmate) | [📝](writeups/Checkmate/README.md) |
 | 4 | Hammer | Medium | Web, Authentication Bypass, JWT, RCE | [THM](https://tryhackme.com/room/hammer) | [📝](writeups/Hammer/README.md) |
 | 5 | Kaboom | Medium | ICS/SCADA, Modbus TCP, Siemens S7, OpenPLC, Video Forensics | [THM](https://tryhackme.com/room/kaboom) | [📝](writeups/Kaboom/README.md) |
+| 6 | WhyHackMe | Hard | Web, Stored XSS, Blind SSRF, Privilege Escalation, TLS Traffic Decryption | [THM](https://tryhackme.com/room/whyhackme) | [📝](writeups/WhyHackMe/README.md) |
 ---
 
 ## Thêm box mới
@@ -26,5 +27,5 @@ Tổng hợp write-up các phòng CTF / Penetration Testing trên [TryHackMe](ht
 
 ## Thống kê
 
-- Tổng số box: **5**
-- Hoàn thành: **5**
+- Tổng số box: **6**
+- Hoàn thành: **6**
